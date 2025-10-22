@@ -1,6 +1,32 @@
-🤖 AI Resume Tailor
+<p align="center">
+<h1>
+🤖
 
-A web app that uses an AI language model to rewrite and tailor your resume for a specific job description. Built with Gradio and Hugging Face Transformers, this tool helps you paste your base resume and a job posting, then generates a new, optimized resume in Markdown. Designed to run for free on Hugging Face Spaces.
+
+
+AI Resume Tailor
+</h1>
+</p>
+
+<p align="center">
+A web app that uses an AI language model to rewrite and tailor your resume for a specific job description.
+
+
+
+
+
+Built with Gradio and Hugging Face Transformers.
+</p>
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME">
+<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" alt="Hugging Face Spaces">
+</a>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.10%2B-yellow" alt="Python 3.10+">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gradio-blueviolet" alt="Gradio">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Transformers-orange" alt="Transformers">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-green" alt="License: MIT">
+</p>
 
 ✨ Features
 
@@ -18,7 +44,7 @@ Markdown Format: Outputs a clean Markdown file, easy to copy and paste into any 
 
 This app is designed to be run for free on a Hugging Face Space.
 
-Visit the App: Go to the live Hugging Face Space URL.
+Visit the App: Go to the live Hugging Face Space URL (add your link to the badge above!).
 
 Step 1: Paste your complete base resume into the "Paste Your Base Resume" textbox.
 
